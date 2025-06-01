@@ -30,7 +30,7 @@ A modern web application stack combining Django, Inertia.js, Vite, and React wit
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/tanzid64/django-inertia-vite-react.git
 cd django-inertia-vite-react
 ```
 
