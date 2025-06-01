@@ -98,7 +98,6 @@ celerybeat-schedule.*
 *.sage.py 
 
 # Environments 
-.env 
 .venv 
 env/ 
 venv/ 
@@ -157,3 +156,4 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+config.bat
